@@ -1,0 +1,12 @@
+# JetBrains IDE config folder
+.idea/
+
+# Python virtual environment
+.venv/
+
+# Environment variables file
+.env
+
+# Python cache files
+__pycache__/
+*.pyc
